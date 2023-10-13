@@ -1,0 +1,391 @@
+.menu {
+  background-color: #000000;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 1440px;
+}
+
+.menu .group-wrapper {
+  background-color: #000000;
+  width: 1440px;
+  height: 4049px;
+}
+
+.menu .group {
+  position: relative;
+  height: 4049px;
+}
+
+.menu .footer {
+  position: absolute;
+  width: 1418px;
+  height: 274px;
+  top: 3775px;
+  left: 11px;
+  background-color: transparent;
+}
+
+.menu .resaux-sociaux {
+  position: absolute;
+  width: 232px;
+  height: 59px;
+  top: 118px;
+  left: 615px;
+}
+
+.menu .overlap-group {
+  position: absolute;
+  width: 167px;
+  height: 82px;
+  top: -5px;
+  left: -15px;
+}
+
+.menu .image {
+  width: 74px;
+  height: 47px;
+  top: 11px;
+  left: 94px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.menu .rectangle {
+  position: absolute;
+  width: 96px;
+  height: 82px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.menu .img {
+  width: 61px;
+  height: 59px;
+  top: 0;
+  left: 171px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.menu .all-right {
+  position: absolute;
+  width: 1420px;
+  height: 63px;
+  top: 211px;
+  left: 0;
+}
+
+.menu .overlap {
+  position: relative;
+  width: 1418px;
+  height: 63px;
+  background-color: #000000;
+}
+
+.menu .ALL-RIGHTS-RESERVED {
+  position: absolute;
+  width: 1415px;
+  height: 17px;
+  top: 22px;
+  left: 2px;
+  -webkit-text-stroke: 1px #000000;
+  font-family: "Ruda-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 1.44px;
+  line-height: 0.1px;
+}
+
+.menu .foot {
+  position: absolute;
+  width: 914px;
+  height: 57px;
+  top: 0;
+  left: 275px;
+}
+
+.menu .div {
+  position: absolute;
+  width: 795px;
+  height: 9px;
+  top: 48px;
+  left: 51px;
+  background-color: #f2c94c;
+  box-shadow: 3px 6px 18px #00000040;
+}
+
+.menu .text-wrapper {
+  position: absolute;
+  width: 912px;
+  height: 31px;
+  top: 0;
+  left: 0;
+  font-family: "Quattrocento-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 72px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 0.1px;
+}
+
+.menu .overlap-2 {
+  position: absolute;
+  width: 1448px;
+  height: 3692px;
+  top: 0;
+  left: 0;
+}
+
+.menu .navbar {
+  position: absolute;
+  width: 1448px;
+  height: 128px;
+  top: 0;
+  left: 0;
+}
+
+.menu .overlap-3 {
+  position: relative;
+  width: 1440px;
+  height: 128px;
+}
+
+.menu .rectangle-2 {
+  position: absolute;
+  width: 1440px;
+  height: 124px;
+  top: 0;
+  left: 0;
+  background-color: #000000;
+}
+
+.menu .logo {
+  position: absolute;
+  width: 120px;
+  height: 128px;
+  top: 0;
+  left: 649px;
+  object-fit: cover;
+}
+
+.menu .text-wrapper-2 {
+  width: 90px;
+  left: 196px;
+  text-shadow: 0px 4px 4px #00000040;
+  position: absolute;
+  top: 46px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.menu .text-wrapper-3 {
+  position: absolute;
+  width: 85px;
+  top: 46px;
+  left: 425px;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.menu .text-wrapper-4 {
+  width: 122px;
+  left: 908px;
+  position: absolute;
+  top: 46px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.menu .text-wrapper-5 {
+  position: absolute;
+  width: 137px;
+  top: 46px;
+  left: 1168px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.menu .homemade-pizza-with {
+  position: absolute;
+  width: 100%;
+  height: 996px;
+  top: 128px;
+  left: 0;
+  object-fit: cover;
+}
+
+.menu .group-2 {
+  position: absolute;
+  width: 1177px;
+  height: 2954px;
+  top: 738px;
+  left: 128px;
+}
+
+.menu .text-wrapper-6 {
+  position: absolute;
+  width: 459px;
+  height: 52px;
+  top: 0;
+  left: 329px;
+  font-family: "Quattrocento-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 60px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 0.1px;
+}
+
+.menu .rectangle-3 {
+  position: absolute;
+  width: 459px;
+  height: 9px;
+  top: 66px;
+  left: 329px;
+  background-color: #f2c94c;
+}
+
+.menu .d-couvrez-l-essence {
+  position: absolute;
+  width: 1161px;
+  top: 109px;
+  left: 12px;
+  font-family: "Ruda-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 2.25px;
+  line-height: 40px;
+}
+
+.menu .dough {
+  position: absolute;
+  width: 558px;
+  height: 358px;
+  top: 364px;
+  left: 603px;
+  object-fit: cover;
+}
+
+.menu .pizza {
+  top: 364px;
+  left: 0;
+  position: absolute;
+  width: 558px;
+  height: 358px;
+  object-fit: cover;
+}
+
+.menu .pizza-2 {
+  top: 810px;
+  left: 603px;
+  position: absolute;
+  width: 558px;
+  height: 358px;
+  object-fit: cover;
+}
+
+.menu .pizza-3 {
+  top: 1257px;
+  left: 603px;
+  position: absolute;
+  width: 558px;
+  height: 358px;
+  object-fit: cover;
+}
+
+.menu .pizza-4 {
+  top: 810px;
+  left: 0;
+  position: absolute;
+  width: 558px;
+  height: 358px;
+  object-fit: cover;
+}
+
+.menu .pizza-5 {
+  top: 1257px;
+  left: 0;
+  position: absolute;
+  width: 558px;
+  height: 358px;
+  object-fit: cover;
+}
+
+.menu .pizza-6 {
+  top: 1703px;
+  left: 0;
+  position: absolute;
+  width: 558px;
+  height: 358px;
+  object-fit: cover;
+}
+
+.menu .pizza-7 {
+  top: 2150px;
+  left: 0;
+  position: absolute;
+  width: 558px;
+  height: 358px;
+  object-fit: cover;
+}
+
+.menu .pizza-8 {
+  top: 2596px;
+  left: 0;
+  position: absolute;
+  width: 558px;
+  height: 358px;
+  object-fit: cover;
+}
+
+.menu .pizza-9 {
+  top: 1703px;
+  left: 603px;
+  position: absolute;
+  width: 558px;
+  height: 358px;
+  object-fit: cover;
+}
+
+.menu .pizza-10 {
+  top: 2150px;
+  left: 603px;
+  position: absolute;
+  width: 558px;
+  height: 358px;
+  object-fit: cover;
+}
+
+.menu .pizza-11 {
+  top: 2596px;
+  left: 603px;
+  position: absolute;
+  width: 558px;
+  height: 358px;
+  object-fit: cover;
+}
